@@ -24,7 +24,7 @@ namespace HelloWorld
         {
             //write Hello World to the console using the WriteLine method
             Console.WriteLine("Hello World!");
-            //pause the program
+            //pause the program until the user presses a key
             Console.ReadLine();
             //end the program
             Environment.Exit(0);
