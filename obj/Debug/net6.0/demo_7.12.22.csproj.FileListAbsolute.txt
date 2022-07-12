@@ -1,0 +1,15 @@
+C:\Users\kballard\code\demo_7.12.22\bin\Debug\net6.0\demo_7.12.22.exe
+C:\Users\kballard\code\demo_7.12.22\bin\Debug\net6.0\demo_7.12.22.deps.json
+C:\Users\kballard\code\demo_7.12.22\bin\Debug\net6.0\demo_7.12.22.runtimeconfig.json
+C:\Users\kballard\code\demo_7.12.22\bin\Debug\net6.0\demo_7.12.22.dll
+C:\Users\kballard\code\demo_7.12.22\bin\Debug\net6.0\demo_7.12.22.pdb
+C:\Users\kballard\code\demo_7.12.22\obj\Debug\net6.0\demo_7.12.22.csproj.AssemblyReference.cache
+C:\Users\kballard\code\demo_7.12.22\obj\Debug\net6.0\demo_7.12.22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kballard\code\demo_7.12.22\obj\Debug\net6.0\demo_7.12.22.AssemblyInfoInputs.cache
+C:\Users\kballard\code\demo_7.12.22\obj\Debug\net6.0\demo_7.12.22.AssemblyInfo.cs
+C:\Users\kballard\code\demo_7.12.22\obj\Debug\net6.0\demo_7.12.22.csproj.CoreCompileInputs.cache
+C:\Users\kballard\code\demo_7.12.22\obj\Debug\net6.0\demo_7.12.22.dll
+C:\Users\kballard\code\demo_7.12.22\obj\Debug\net6.0\refint\demo_7.12.22.dll
+C:\Users\kballard\code\demo_7.12.22\obj\Debug\net6.0\demo_7.12.22.pdb
+C:\Users\kballard\code\demo_7.12.22\obj\Debug\net6.0\demo_7.12.22.genruntimeconfig.cache
+C:\Users\kballard\code\demo_7.12.22\obj\Debug\net6.0\ref\demo_7.12.22.dll
