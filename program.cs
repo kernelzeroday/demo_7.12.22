@@ -26,8 +26,13 @@ namespace HelloWorld
             Console.WriteLine("Hello World!");
             //pause the program until the user presses a key
             Console.ReadLine();
+            //print the environment version to the console
+            Console.WriteLine(Environment.Version);
+            //write the full path of the executable to the console
+            Console.WriteLine(Environment.GetCommandLineArgs()[0]);
             //end the program
             Environment.Exit(0);
+            
 
         }
     }
